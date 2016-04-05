@@ -45,6 +45,8 @@ public class HttpClient {
 	private PoolingHttpClientConnectionManager cm;
 	private String clientInstanceId;
 
+	private String hc1;
+	
 	public HttpClient() {
 	}
 
