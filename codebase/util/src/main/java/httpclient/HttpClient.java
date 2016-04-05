@@ -46,6 +46,7 @@ public class HttpClient {
 	private String clientInstanceId;
 
 	private String hc1;
+	private String hc2;
 	
 	public HttpClient() {
 	}
