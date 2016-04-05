@@ -10,6 +10,9 @@ import httpclient.ErrorHttpClient;
 
 public class RuntimeError extends Exception {
 
+   int x = 0;
+   int y = 1;
+   
    public RuntimeError(ErrorHttpClient httpNoSuchAlgorithmError, NoSuchAlgorithmException e) {
       // TODO Auto-generated constructor stub
    }
